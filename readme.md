@@ -19,3 +19,5 @@ npm run dev
 #npm -v : 3.10.10
 
 #node -v: 6.12.3
+
+source: http://laraveldaily.com/quick-start-laravel-5-5-vue-js-simple-crud-project/
